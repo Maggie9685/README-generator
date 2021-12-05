@@ -1,16 +1,16 @@
  
-  # 654
-  
+  # Sample README
+  ![GitHub license](https://img.shields.io/badge/license-MIT-green)
 
   ## Description 
 
-  755
+  This is a sample README 
   
   ## Table of Contents
   
   * [Installation](#installation)
   * [Usage](#usage)
-  
+  * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -18,25 +18,27 @@
   
   ## Installation
   
-  8454
+  No such things
   
   ## Usage 
   
-  84
+  Use anyway you want
   
-  
+  ## License
+
+  This project is licensed under the MIT license.
   
   ## Contributing
   
-  1515
+  Just do it
   
   ## Tests
   
-  545
+  Run node index.js
   
   ## Questions
 
-  Question? Send an email to 123
+  Question? Send an email to maggielai@email
 
-  You can also check my other work on my [GitHub Profile](https://github.com/123) 
+  You can also check my other work on my [GitHub Profile](https://github.com/maggie9685) 
   
