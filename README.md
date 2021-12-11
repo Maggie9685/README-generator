@@ -5,6 +5,9 @@ This app is to help shorten the time we need to write a README.md file. After us
 #### Questions and the generated README file as follow
 ![Screenshot](Capture.JPG)
 
+#### Video Demo
+https://watch.screencastify.com/v/jn20yJRvcVo35NuK7BhR
+
 ## Built With
 * Javascript
 
